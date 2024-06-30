@@ -4,14 +4,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", 21827814)
-API_HASH = getenv("API_HASH", "af097d21fa5049b0ed0d614ed3b885cd)
-BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = int(getenv("OWNER_ID", 6753014811)
-MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "sage_bot_support)
+API_ID = "21827814"
+API_HASH = "af097d21fa5049b0ed0d614ed3b885cd
+BOT_TOKEN = "7369149161:AAFAoyZ818kS-St-mpcy2TTumzFlLFZWAX8"
+OWNER_ID = "7376728791"
+MONGO_URL = "mongodb+srv://bikash:bikash@bikash.3jkvhp7.mongodb.net/?retryWrites=true&w=majority"
+SUPPORT_GRP = "sage_bot_support"
 UPDATE_CHNL = getenv("UPDATE_CHNL", "team_sage_xd)
-OWNER_USERNAME = getenv("OWNER_USERNAME")
+OWNER_USERNAME = "xrayy_xd"
 
 # Random Start Images
 IMG = [
