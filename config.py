@@ -10,7 +10,7 @@ BOT_TOKEN = "7369149161:AAFAoyZ818kS-St-mpcy2TTumzFlLFZWAX8"
 OWNER_ID = "7376728791"
 MONGO_URL = "mongodb+srv://bikash:bikash@bikash.3jkvhp7.mongodb.net/?retryWrites=true&w=majority"
 SUPPORT_GRP = "sage_bot_support"
-UPDATE_CHNL = getenv("UPDATE_CHNL", "team_sage_xd)
+UPDATE_CHNL = "team_sage_xd"
 OWNER_USERNAME = "xrayy_xd"
 
 # Random Start Images
